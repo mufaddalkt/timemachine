@@ -1,0 +1,388 @@
+{
+  "researchScope": "Representative, source-backed milestones for the EPOCH journey; not a complete history of any year or civilization.",
+  "verifiedOn": "2026-10-12",
+  "generalConfidence": "High for the dated modern events and broad museum/scientific summaries. Ancient and prehistoric dates are approximate; earliest-life claims remain evidence-based rather than dates of an observed beginning.",
+  "events": [
+    {
+      "id": "spherex",
+      "year": "2025",
+      "title": "A new map of the cosmos",
+      "summary": "NASA launched SPHEREx on March 11, 2025, to survey the sky in near-infrared light. By measuring the light from vast numbers of galaxies and tracing water-bearing ices in our galaxy, it connects the history of cosmic expansion with the ingredients that can help build planetary systems.",
+      "people": ["NASA", "Jet Propulsion Laboratory", "Caltech"],
+      "sourceTitle": "SPHEREx — NASA Science",
+      "sourceUrl": "https://science.nasa.gov/mission/spherex/",
+      "nuance": "Describe mission objectives as objectives, not discoveries already completed. Launch date is March 11 in the launch site's local time; March 12 UTC.",
+      "confidence": "high"
+    },
+    {
+      "id": "europa",
+      "year": "2024",
+      "title": "Toward an ocean beneath the ice",
+      "summary": "Europa Clipper launched on October 14, 2024, toward Jupiter's icy moon Europa. Its instruments are designed to investigate whether the moon's hidden ocean and surrounding environment could support life, extending the search for habitable worlds beyond Earth.",
+      "people": [
+        "NASA",
+        "Jet Propulsion Laboratory",
+        "Johns Hopkins Applied Physics Laboratory"
+      ],
+      "sourceTitle": "Europa Clipper — NASA Science",
+      "sourceUrl": "https://science.nasa.gov/mission/europa-clipper/",
+      "nuance": "Europa Clipper investigates habitability; it is not a direct life-detection mission and has not reached Jupiter in 2024.",
+      "confidence": "high"
+    },
+    {
+      "id": "chandrayaan",
+      "year": "2023",
+      "title": "India reaches the lunar surface",
+      "summary": "On August 23, 2023, Chandrayaan-3's Vikram lander successfully soft-landed on the Moon, followed by deployment of the Pragyan rover. The achievement demonstrated India's ability to land and operate on another world, while its instruments gathered measurements of the lunar environment.",
+      "people": [
+        "Indian Space Research Organisation",
+        "Chandrayaan-3 mission team"
+      ],
+      "sourceTitle": "Chandrayaan-3 — ISRO",
+      "sourceUrl": "https://www.isro.gov.in/ISRO_EN/Chandrayaan3.html",
+      "additionalSources": [
+        {
+          "title": "Government of India: August 2023 monthly summary",
+          "url": "https://www.isro.gov.in/media_isro/pdf/Monthly_summary/MonthlySummary_August2023Eng.pdf"
+        }
+      ],
+      "nuance": "The landing was in the lunar south-polar region, not at the geographic south pole.",
+      "confidence": "high"
+    },
+    {
+      "id": "webb",
+      "year": "2022",
+      "title": "The universe in a new light",
+      "summary": "In July 2022, the James Webb Space Telescope released its first full-color scientific images and spectra. Infrared observations revealed distant galaxies, star-forming regions and planetary atmospheres in new detail, opening another way to study how the universe and its worlds evolved.",
+      "people": ["NASA", "European Space Agency", "Canadian Space Agency"],
+      "sourceTitle": "Webb's First Images — NASA Science",
+      "sourceUrl": "https://science.nasa.gov/mission/webb/webbs-first-images/",
+      "nuance": "The first deep-field image was previewed July 11; the full initial set was released July 12. Webb observes infrared light; displayed colors translate those measurements into visible images.",
+      "confidence": "high"
+    },
+    {
+      "id": "ingenuity",
+      "year": "2021",
+      "title": "Flight on another world",
+      "summary": "On April 19, 2021, NASA's Ingenuity helicopter completed the first powered, controlled aircraft flight on another planet. Flying in Mars's thin atmosphere showed that aerial reconnaissance could complement rovers and change how future missions explore difficult terrain.",
+      "people": [
+        "NASA",
+        "Jet Propulsion Laboratory",
+        "Ingenuity and Perseverance mission teams"
+      ],
+      "sourceTitle": "Ingenuity — NASA JPL",
+      "sourceUrl": "https://www.jpl.nasa.gov/missions/ingenuity/",
+      "nuance": "First powered controlled flight on another planet, not first spacecraft flight or first object airborne beyond Earth.",
+      "confidence": "high"
+    },
+    {
+      "id": "pandemic",
+      "year": "2020",
+      "title": "A world interrupted",
+      "summary": "As COVID-19 spread worldwide, WHO characterized the outbreak as a pandemic on March 11, 2020. Health services faced exceptional pressure, while distancing measures, travel restrictions and school closures altered daily life; the crisis exposed inequalities and made scientific cooperation and public-health decisions visible in every household.",
+      "people": [
+        "World Health Organization",
+        "Tedros Adhanom Ghebreyesus",
+        "health workers",
+        "researchers and public-health agencies"
+      ],
+      "sourceTitle": "WHO Director-General's remarks — March 11, 2020",
+      "sourceUrl": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+      "additionalSources": [
+        {
+          "title": "WHO: Schooling during the COVID-19 pandemic",
+          "url": "https://iris.who.int/handle/10665/339955"
+        }
+      ],
+      "detail": "COVID-19 is the disease caused by SARS-CoV-2. By spring 2020, school closures in roughly 180 countries affected about 1.5 billion students. Measures and impacts varied between countries, communities and stages of the pandemic.",
+      "nuance": "2020 is not the origin year of every case: the disease was first identified in 2019. The end of the WHO emergency in 2023 did not mean the virus disappeared.",
+      "confidence": "high"
+    },
+    {
+      "id": "blackhole",
+      "year": "2019",
+      "title": "Seeing the edge of darkness",
+      "summary": "On April 10, 2019, the Event Horizon Telescope collaboration released the first image of a black hole's shadow, at the center of galaxy M87. Observatories around the globe worked together as an Earth-sized virtual telescope, turning an extraordinary prediction of relativity into a measurable image.",
+      "people": [
+        "Event Horizon Telescope collaboration",
+        "ESO",
+        "ALMA",
+        "APEX"
+      ],
+      "sourceTitle": "Astronomers Capture First Image of a Black Hole — ESO",
+      "sourceUrl": "https://www.hq.eso.org/public/news/eso1907/",
+      "nuance": "The image reconstructs radio observations of bright emission surrounding the shadow; it is not an optical photograph of the black hole's interior. Observations were collected in 2017.",
+      "confidence": "high"
+    },
+    {
+      "id": "smartphone",
+      "year": "2007",
+      "title": "The internet moves into a pocket",
+      "summary": "Apple introduced the iPhone on January 9, 2007, combining phone calls, a media player and an internet device around a multi-touch interface. It became a prominent milestone in the shift toward mobile computing, as increasingly capable phones changed how people communicated and accessed information.",
+      "people": ["Steve Jobs", "Apple", "Cingular"],
+      "sourceTitle": "Apple Reinvents the Phone with iPhone — Apple",
+      "sourceUrl": "https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "nuance": "The iPhone was not the first smartphone. The announcement occurred in January; US sales began in June. The App Store arrived in 2008, not 2007.",
+      "confidence": "high for announcement and features; broad impact is synthesis"
+    },
+    {
+      "id": "september11",
+      "year": "2001",
+      "title": "September 11: lives and a world changed",
+      "summary": "On September 11, al-Qaeda hijackers attacked the World Trade Center and the Pentagon; a fourth plane crashed in Pennsylvania after passengers resisted. The attacks killed 2,977 people from 90 nations and were followed by a US-led military campaign in Afghanistan, leaving enduring consequences for families and international affairs.",
+      "people": [
+        "victims and families",
+        "first responders",
+        "Flight 93 passengers and crew",
+        "George W. Bush",
+        "al-Qaeda"
+      ],
+      "sourceTitle": "What happened on 9/11? — National September 11 Memorial & Museum",
+      "sourceUrl": "https://www.911memorial.org/support/membership/membership-faq",
+      "nuance": "The victim count excludes the hijackers and should not be confused with the memorial's combined count for the 1993 and 2001 attacks. Center people and remembrance; avoid sensational imagery.",
+      "confidence": "high"
+    },
+    {
+      "id": "web",
+      "year": "1989",
+      "title": "The world's information becomes connected",
+      "summary": "Working at CERN in 1989, Tim Berners-Lee proposed the information-sharing system that became the World Wide Web. Linking documents across computers made knowledge easier to navigate; CERN's later decision to release the software openly helped the web spread far beyond research laboratories.",
+      "people": ["Tim Berners-Lee", "Robert Cailliau", "CERN"],
+      "sourceTitle": "The birth of the Web — CERN",
+      "sourceUrl": "https://home.cern/science/computing/the-birth-of-the-web/",
+      "nuance": "The Web and the internet are different: the internet predates the Web. The first browser and server came in 1990; CERN released the software into the public domain in 1993.",
+      "confidence": "high"
+    },
+    {
+      "id": "apollo",
+      "year": "1969",
+      "title": "Footsteps beyond Earth",
+      "summary": "Apollo 11 landed Neil Armstrong and Buzz Aldrin on the Moon on July 20, 1969, while Michael Collins remained in lunar orbit. Their mission brought lunar samples back to Earth and transformed a Cold War competition into a lasting demonstration of what coordinated science and engineering could accomplish.",
+      "people": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Michael Collins",
+        "NASA and Apollo workforce"
+      ],
+      "sourceTitle": "Apollo 11 Mission Overview — NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/apollo/apollo-11/apollo-11-mission-overview/",
+      "nuance": "The landing date is July 20 UTC; Armstrong's first step occurred early July 21 UTC, although July 20 in the United States. Do not imply Collins walked on the Moon.",
+      "confidence": "high"
+    },
+    {
+      "id": "wwii",
+      "year": "1939–1945",
+      "title": "A world at war",
+      "summary": "World War II drew countries and populations across Europe, Asia, Africa and the Pacific into catastrophic conflict. Nazi Germany and its collaborators carried out the Holocaust, murdering six million Jews; Allied victory ended Axis expansion but left devastated societies and a new age of nuclear weapons and superpower rivalry.",
+      "people": [
+        "Adolf Hitler",
+        "Winston Churchill",
+        "Franklin D. Roosevelt",
+        "Joseph Stalin",
+        "military personnel",
+        "civilians and resistance movements"
+      ],
+      "sourceTitle": "Explore WWII History — The National WWII Museum",
+      "sourceUrl": "https://www.nationalww2museum.org/students-teachers/student-resources/explore-wwii-history",
+      "additionalSources": [
+        {
+          "title": "Holocaust fundamentals — US Holocaust Memorial Museum",
+          "url": "https://www.ushmm.org/teach/fundamentals/holocaust-questions"
+        },
+        {
+          "title": "Scientific and Technological Advances of WWII — National WWII Museum",
+          "url": "https://www.nationalww2museum.org/war/articles/scientific-and-technological-advances-world-war-ii"
+        }
+      ],
+      "detail": "Germany's invasion of Poland in September 1939 marks the conventional start of the war in Europe. Japanese imperial warfare in Asia began earlier. Fighting included the Eastern Front, North Africa and the Pacific as well as Western Europe; mass persecution, occupation and civilian suffering must remain central to its interpretation.",
+      "nuance": "1939–1945 is the conventional general date range, but the war's Asian roots predate 1939. The Holocaust spans 1933–1945 as persecution and murder, with systematic mass killing escalating during the war. Avoid suggesting a single technology or leader alone decided the outcome.",
+      "confidence": "high"
+    },
+    {
+      "id": "wwi",
+      "year": "1914–1918",
+      "title": "The fracture of an old world",
+      "summary": "After the assassination of Archduke Franz Ferdinand, political and military decisions turned a Balkan crisis into a global war. Industrial weapons, trench warfare and campaigns across multiple continents inflicted enormous losses; the conflict helped bring down the German, Austro-Hungarian, Ottoman and Russian empires.",
+      "people": [
+        "Franz Ferdinand",
+        "European political and military leaders",
+        "soldiers from colonial empires",
+        "civilians"
+      ],
+      "sourceTitle": "First World War — National Army Museum",
+      "sourceUrl": "https://www.nam.ac.uk/explore/first-world-war",
+      "additionalSources": [
+        {
+          "title": "The outbreak of the First World War — Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/first-world-war/outbreak"
+        }
+      ],
+      "nuance": "The assassination was a trigger, not a sufficient single cause. Nationalism, militarism, imperial rivalry and leaders' decisions matter; campaigns were not confined to European trenches. The 1918 armistice and later peace treaties are distinct.",
+      "confidence": "high; IWM source searchable but direct fetch restricted"
+    },
+    {
+      "id": "industrial",
+      "year": "c. 1760–1840",
+      "title": "The world learns a new rhythm",
+      "summary": "Britain's Industrial Revolution brought growing mechanization, factories and new sources of power to production. Improvements to steam engines by James Watt and his partnership with Matthew Boulton helped expand industrial power, accelerating the manufacture of goods while reshaping work, cities and energy use.",
+      "people": [
+        "James Watt",
+        "Matthew Boulton",
+        "Thomas Newcomen",
+        "factory workers"
+      ],
+      "sourceTitle": "James Watt, office equipment and high-street fashion — Science Museum",
+      "sourceUrl": "https://blog.sciencemuseum.org.uk/james-watt-high-street-fashion/",
+      "nuance": "The date range is conventional and approximate. Industrialization spread unevenly and continued much later elsewhere. Watt improved the steam engine; he did not invent it. Water power remained significant.",
+      "confidence": "high for steam and manufacturing; range is conventional approximation"
+    },
+    {
+      "id": "renaissance",
+      "year": "c. 1400–1600",
+      "title": "A new way of seeing",
+      "summary": "In Renaissance Italy, renewed engagement with classical texts and artifacts helped inspire humanist scholarship and innovations in art, architecture and science. Artists and thinkers pursued perspective, observation and individual achievement, while powerful patrons such as the Medici supported Florence's cultural growth.",
+      "people": [
+        "Leonardo da Vinci",
+        "Donatello",
+        "Lorenzo Ghiberti",
+        "Medici patrons"
+      ],
+      "sourceTitle": "Florence and Central Italy, 1400–1600 — Metropolitan Museum of Art",
+      "sourceUrl": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/eustc.html",
+      "nuance": "This range and account describe Italian Renaissance culture rather than a simultaneous global transition. The Renaissance drew on earlier medieval knowledge and wider exchanges; it was not the beginning of human creativity or science.",
+      "confidence": "high"
+    },
+    {
+      "id": "islamic",
+      "year": "c. 750–1258",
+      "title": "Knowledge across languages and worlds",
+      "summary": "In the medieval Islamic world, scholars translated and developed knowledge from Greek, Persian and Indian traditions. Centers including Baghdad, Cairo and Isfahan supported new observations and calculations in astronomy, demonstrating how scholarship grows through exchange as well as original investigation.",
+      "people": [
+        "al-Ma'mun",
+        "al-Sufi",
+        "al-Biruni",
+        "Ibn al-Haytham",
+        "scholars and translators of the medieval Islamic world"
+      ],
+      "sourceTitle": "Astronomy and Astrology in the Medieval Islamic World — Metropolitan Museum of Art",
+      "sourceUrl": "https://www.metmuseum.org/essays/astronomy-and-astrology-in-the-medieval-islamic-world",
+      "additionalSources": [
+        {
+          "title": "The Art of the Abbasid Period (750–1258) — Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/it/essays/the-art-of-the-abbasid-period-750-1258"
+        }
+      ],
+      "nuance": "750–1258 matches the Abbasid period, not an undisputed start/end for all 'Islamic Golden Age' science. Scholars included many ethnicities and religions, and scientific activity continued beyond 1258. Avoid the simplistic story that they merely preserved European knowledge.",
+      "confidence": "high for described scholarship; period boundaries are interpretive"
+    },
+    {
+      "id": "rome",
+      "year": "27 BCE onward",
+      "title": "Power carved into stone",
+      "summary": "Augustus's rule marks the conventional beginning of the Roman imperial period. Rome's rulers used monumental architecture, engineering, literature and public ritual to project authority, creating a powerful shared visual culture around an empire that connected much of the Mediterranean.",
+      "people": [
+        "Augustus",
+        "Virgil",
+        "Livy",
+        "Mediterranean craftspeople and engineers"
+      ],
+      "sourceTitle": "Augustan Rule (27 BCE–14 CE) — Metropolitan Museum of Art",
+      "sourceUrl": "https://www.metmuseum.org/essays/augustan-rule-27-b-c-14-a-d",
+      "nuance": "27 BCE is a conventional political milestone, not the beginning of Roman history. 476 CE marks the end of western imperial rule, not the end of the Eastern Roman Empire. Monumental prosperity also depended on conquest, coercion and enslaved labor.",
+      "confidence": "high for Augustan focus"
+    },
+    {
+      "id": "egypt",
+      "year": "c. 2650–2150 BCE",
+      "title": "Monuments against mortality",
+      "summary": "Egypt's Old Kingdom saw the construction of monumental royal tombs, from Djoser's Step Pyramid to the pyramids at Giza. These structures brought architecture, religious belief and state organization together, preserving evidence of an ancient society whose life and power were closely connected to the Nile.",
+      "people": [
+        "Djoser",
+        "Imhotep",
+        "Snefru",
+        "Khufu",
+        "Egyptian builders and artisans"
+      ],
+      "sourceTitle": "The Art of Ancient Egypt — Metropolitan Museum of Art",
+      "sourceUrl": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf",
+      "additionalSources": [
+        {
+          "title": "Historical Timeline — Egyptian Museum Cairo",
+          "url": "https://egyptianmuseumcairo.eg/historical-timeline/"
+        }
+      ],
+      "nuance": "Dates vary slightly across chronologies. This is the Old Kingdom, one period within more than three millennia of ancient Egyptian history. Do not conflate the Giza pyramids with much later New Kingdom rulers such as Tutankhamun.",
+      "confidence": "high; chronological boundaries approximate"
+    },
+    {
+      "id": "agriculture",
+      "year": "from c. 10,000 BCE",
+      "title": "Learning to shape the land",
+      "summary": "Within roughly the past 12,000 years, some human communities began producing food through cultivation and animal domestication. This long transition changed relationships with land and settlement and eventually supported growing populations and more complex societies, while many communities continued to hunt and gather.",
+      "people": [
+        "early farming communities",
+        "communities in Southwest Asia and other independent centers"
+      ],
+      "sourceTitle": "Humans Change the World — Smithsonian Human Origins",
+      "sourceUrl": "https://humanorigins.si.edu/human-characteristics/humans-change-world",
+      "nuance": "Agriculture arose at different times in different places; it was not one invention by one person or a universal immediate step forward. Use this Smithsonian page for agriculture only: its separate 200,000-year Homo sapiens label is outdated compared with the current species page.",
+      "confidence": "high for broad food-production transition"
+    },
+    {
+      "id": "humans",
+      "year": "c. 300,000 years ago",
+      "title": "Our species enters the story",
+      "summary": "Homo sapiens evolved in Africa around 300,000 years ago, joining a world already inhabited by other human species. Early members of our species gathered and hunted food and adapted to changing environments; later generations would carry an expanding range of tools, social practices and symbolic traditions across the planet.",
+      "people": ["early Homo sapiens communities"],
+      "sourceTitle": "Homo sapiens — Smithsonian Human Origins",
+      "sourceUrl": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
+      "nuance": "This marks our species, not the first hominins or first members of genus Homo. Evolution is gradual, and anatomy and behavior did not appear as a complete package on a single date.",
+      "confidence": "high; approximate date"
+    },
+    {
+      "id": "extinction",
+      "year": "66 million years ago",
+      "title": "An impact that changed life's direction",
+      "summary": "A massive asteroid impact helped trigger the end-Cretaceous mass extinction about 66 million years ago. Non-avian dinosaurs disappeared along with many other organisms, while surviving lineages, including birds and mammals, inherited a radically altered world.",
+      "people": [
+        "Luis Alvarez and Walter Alvarez (modern investigators)",
+        "paleontologists and geologists"
+      ],
+      "sourceTitle": "What killed the dinosaurs? — Natural History Museum",
+      "sourceUrl": "https://www.nhm.ac.uk/discover/dinosaur-extinction.html",
+      "additionalSources": [
+        {
+          "title": "How an asteroid ended the age of the dinosaurs — Natural History Museum",
+          "url": "https://www.nhm.ac.uk/discover/how-an-asteroid-caused-extinction-of-dinosaurs.html?itid=lk_inline_enhanced-template"
+        }
+      ],
+      "nuance": "Birds are living dinosaurs; do not say all dinosaurs vanished. Mammals existed before the extinction. The impact is central evidence, while the contribution of contemporary volcanism remains part of research.",
+      "confidence": "high"
+    },
+    {
+      "id": "earlylife",
+      "year": "at least 3.5 billion years ago",
+      "title": "A living planet begins to leave traces",
+      "summary": "Ancient rocks preserve evidence of microscopic life billions of years before animals appeared. Microbial structures called stromatolites date to about 3.5 billion years ago, showing that Earth's biological history began with small organisms in a world very different from the oxygen-rich planet we know.",
+      "people": [
+        "microbial communities",
+        "geologists and paleobiologists (modern investigators)"
+      ],
+      "sourceTitle": "History of Life on Earth — Smithsonian National Museum of Natural History",
+      "sourceUrl": "https://naturalhistory.si.edu/education/teaching-resources/life-science/early-life-earth-animal-origins",
+      "nuance": "This is a date for preserved evidence, not an exact known origin of life. The source discusses signals as old as 3.7 billion years; some earlier claims are debated. Do not equate first life with animals or with an immediately oxygen-rich atmosphere.",
+      "confidence": "high for 3.5-billion-year stromatolites; exact origin unresolved"
+    },
+    {
+      "id": "earth",
+      "year": "c. 4.5 billion years ago",
+      "title": "The making of a world",
+      "summary": "Earth formed as gravity gathered material within the young solar system roughly 4.5 billion years ago. Over immense spans of time, its surface, atmosphere and oceans changed, creating the planetary setting in which every later chapter of the journey unfolded.",
+      "people": ["planetary scientists and geologists (modern investigators)"],
+      "sourceTitle": "Facts About Earth — NASA Science",
+      "sourceUrl": "https://science.nasa.gov/earth/facts/",
+      "nuance": "Formation was a process, not a single instant. Rounded 4.5 billion years is suitable for display; commonly quoted radiometric age is approximately 4.54 billion years. Do not place mature oceans or life at the initial accretion moment.",
+      "confidence": "high; rounded date"
+    }
+  ]
+}

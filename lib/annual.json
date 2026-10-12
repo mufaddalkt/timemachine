@@ -1,0 +1,200 @@
+[
+  {
+    "id": "annual-2026",
+    "year": "2026",
+    "title": "You are here",
+    "summary": "Begin with the world you inhabit: one planet, a shared species, and a history that stretches far beyond recorded memory. Travel backward to see the decisions, discoveries and changing environments that shaped the present.",
+    "why": "Editorial orientation only; no unverified 2026 event, political leader, population number or forecast is asserted.",
+    "people": "you · communities around the world",
+    "source": "https://science.nasa.gov/earth/facts/",
+    "sourceName": "Facts About Earth — NASA Science",
+    "details": "This is the journey's present-day frame, not a current-news report. Its purpose is to orient the visitor before the timeline moves into documented events and increasingly broad periods."
+  },
+  {
+    "id": "annual-2018",
+    "year": "2018",
+    "title": "Every fraction of a degree matters",
+    "summary": "The IPCC's 2018 special report examined how the consequences of 1.5°C of global warming differ from higher levels. It connected climate risks, emissions pathways and development, giving governments and communities a clearer account of the choices involved in limiting warming.",
+    "why": "Describe 2018 findings in historical context; do not present its projections or remaining carbon budgets as current 2026 figures. Long-term warming thresholds differ from temperatures in individual years.",
+    "people": "Intergovernmental Panel on Climate Change · international scientific authors · policymakers and communities",
+    "source": "https://www.ipcc.ch/sr15/",
+    "sourceName": "Global Warming of 1.5°C — IPCC",
+    "details": "The report synthesized research rather than announcing a single experiment. Its scenarios compare potential futures and the transitions needed to reach them."
+  },
+  {
+    "id": "annual-2017",
+    "year": "2017",
+    "title": "The universe speaks in more than light",
+    "summary": "On August 17, gravitational-wave detectors and telescopes observed signals from a merging pair of neutron stars. Combining ripples in spacetime with electromagnetic observations opened a powerful way to study the same cosmic event through different kinds of evidence.",
+    "why": "This was not the first gravitational-wave detection; that earlier breakthrough involved merging black holes. Signals were detected in 2017 from an event whose light had traveled for millions of years.",
+    "people": "LIGO and Virgo collaborations · NASA Fermi team · ESA INTEGRAL team · international astronomers",
+    "source": "https://www.nasa.gov/news-release/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
+    "sourceName": "NASA Missions Catch First Light from a Gravitational-Wave Event — NASA",
+    "details": "The event, GW170817, was followed in visible, ultraviolet, infrared and X-ray light. Observations helped researchers connect neutron-star mergers with short gamma-ray bursts and the production of heavy elements."
+  },
+  {
+    "id": "annual-2016",
+    "year": "2016",
+    "title": "A vote that redefined a relationship",
+    "summary": "In the UK's 2016 referendum on European Union membership, 51.9% of valid votes supported leaving and 48.1% supported remaining. The result began a major political process over the country's relationship with its European neighbors, revealing a closely divided electorate.",
+    "why": "Do not say the UK actually left the EU in 2016. The percentages refer to valid votes, not the entire population. Present disagreement without assigning motives to millions of voters.",
+    "people": "UK and Gibraltar voters · Leave and Remain campaigners · Electoral Commission · Jenny Watson",
+    "source": "https://www.electoralcommission.org.uk/media-centre/official-result-eu-referendum-declared-electoral-commission-manchester",
+    "sourceName": "Official EU referendum result — Electoral Commission",
+    "details": "The reported national turnout was 72.2%. The vote provides a useful distinction between a referendum decision and the later negotiations and legal steps necessary to implement it."
+  },
+  {
+    "id": "annual-2015",
+    "year": "2015",
+    "title": "A shared framework for climate action",
+    "summary": "On December 12, countries adopted the Paris Agreement at COP21. It established a shared framework to limit global warming and strengthen adaptation, connecting international cooperation with climate plans developed by individual countries.",
+    "why": "Adoption, signature, ratification and entry into force are different steps. The agreement established goals and processes; it did not immediately guarantee those outcomes or set identical targets for every country.",
+    "people": "UN Framework Convention on Climate Change · COP21 national delegations · climate negotiators",
+    "source": "https://www.unfccc.int/process-and-meetings/the-paris-agreement",
+    "sourceName": "The Paris Agreement — UNFCCC",
+    "details": "The agreement aims to hold warming well below 2°C and pursue efforts toward 1.5°C above preindustrial levels. It entered into force on November 4, 2016."
+  },
+  {
+    "id": "annual-2014",
+    "year": "2014",
+    "title": "Touching a traveler from the early solar system",
+    "summary": "On November 12, Rosetta's Philae probe became the first lander to touch down on a comet. The mission brought instruments to comet 67P/Churyumov–Gerasimenko, allowing researchers to study material that preserves clues to the solar system's early history.",
+    "why": "Avoid depicting an uncomplicated stable landing at the intended site; the follow-up source documents three touchdowns. This was the first comet landing, not the first landing on any small solar-system body.",
+    "people": "European Space Agency · DLR · CNES · Rosetta and Philae mission teams",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Touchdown%21_Rosetta_s_Philae_probe_lands_on_comet?origen=app",
+    "sourceName": "Touchdown! Rosetta's Philae probe lands on comet — ESA",
+    "details": "Rosetta relayed Philae's measurements to Earth. The lander's harpoons did not fire, and it bounced before coming to rest, making the landing more complicated than planned."
+  },
+  {
+    "id": "annual-2013",
+    "year": "2013",
+    "title": "Remembering a struggle for freedom",
+    "summary": "Nelson Mandela died on December 5, 2013, after a life closely associated with resistance to apartheid and South Africa's democratic transition. Remembering his life also means remembering the many movements and people who worked toward political rights and a different future for their country.",
+    "why": "Do not imply one leader alone ended apartheid, that Mandela became president in 2013, or that political change ended every inequality. His legacy is complex and involves collective organizing and negotiation.",
+    "people": "Nelson Mandela · South African anti-apartheid movements · South African voters · Nelson Mandela Foundation",
+    "source": "https://www.nelsonmandela.org/biography",
+    "sourceName": "Biography of Nelson Mandela — Nelson Mandela Foundation",
+    "details": "Mandela was imprisoned for 27 years and became South Africa's president in 1994. His later work included foundations supporting children, public memory and social causes."
+  },
+  {
+    "id": "annual-2012",
+    "year": "2012",
+    "title": "Evidence for a field behind mass",
+    "summary": "On July 4, CERN's ATLAS and CMS experiments announced a new particle consistent with the Higgs boson. The discovery supplied evidence for the Higgs field, a central part of the Standard Model's explanation of how fundamental particles acquire mass.",
+    "why": "The Higgs mechanism does not account for all the mass of ordinary matter; much of a proton's mass arises from strong-interaction energy. Avoid the nickname God particle or the claim that all mysteries of matter were solved.",
+    "people": "ATLAS collaboration · CMS collaboration · CERN · Peter Higgs · François Englert · Robert Brout",
+    "source": "https://home.cern/science/physics/higgs-boson/",
+    "sourceName": "The Higgs boson — CERN",
+    "details": "The Large Hadron Collider's experiments combined huge numbers of collision measurements. Later analysis strengthened identification of the observed particle as a Higgs boson."
+  },
+  {
+    "id": "annual-2011",
+    "year": "2011",
+    "title": "When disasters cascade",
+    "summary": "The March 11 earthquake and tsunami in Japan triggered the Fukushima Daiichi nuclear accident. The failure of essential power and cooling systems turned a natural hazard into a major technological emergency, prompting close examination of safety assumptions and emergency preparedness.",
+    "why": "Distinguish deaths from the earthquake and tsunami from radiation exposure and the wider consequences of evacuation. Do not collapse all hazards into a single death count or imply the plant accident was caused by an explosion like a nuclear weapon.",
+    "people": "affected Japanese communities · plant workers and emergency responders · TEPCO · Japanese authorities · International Atomic Energy Agency",
+    "source": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1710-ReportByTheDG-Web.pdf",
+    "sourceName": "The Fukushima Daiichi Accident — IAEA",
+    "details": "The IAEA's assessment examines causes, evolution and consequences, including weaknesses in regulation and the need to prepare for severe combined events. Evacuation and disruption affected residents long after the initial emergency."
+  },
+  {
+    "id": "annual-2010",
+    "year": "2010",
+    "title": "Football's world stage reaches Africa",
+    "summary": "South Africa hosted the 2010 men's FIFA World Cup, the first held on the African continent. The tournament brought players and supporters together around a shared global spectacle and placed South African stadiums, communities and culture at its center.",
+    "why": "Specify men's FIFA World Cup: other major world sporting events took place in Africa earlier. Cultural significance does not establish that every promised economic or social benefit was delivered.",
+    "people": "South African hosts and communities · Siphiwe Tshabalala · competing national teams · FIFA",
+    "source": "https://inside.fifa.com/tournaments/mens/worldcup/2010south-africa/news/video-vault-tshabalala-opens-south-africa-2010-with-a-bang-2921847",
+    "sourceName": "Tshabalala opens South Africa 2010 with a bang — FIFA",
+    "details": "The tournament ran from June 11 to July 11. Tshabalala scored the opening goal in South Africa's match against Mexico, becoming a memorable moment for the host nation."
+  },
+  {
+    "id": "annual-2009",
+    "year": "2009",
+    "title": "A new influenza spreads worldwide",
+    "summary": "On June 11, WHO judged that the spread of a new influenza A(H1N1) virus met the criteria for a pandemic. The response required countries to move from trying to contain introductions toward reducing harm, while vaccine production and public-health coordination became global priorities.",
+    "why": "Pandemic describes international spread, not automatically maximum severity. Avoid using the early assessment as a full retrospective measure of every population's experience.",
+    "people": "World Health Organization · Margaret Chan · health workers · national public-health agencies · vaccine researchers and manufacturers",
+    "source": "https://www.who.int/news/item/11-06-2009-dg-statement-following-the-meeting-of-the-emergency-committee",
+    "sourceName": "WHO statement following the Emergency Committee meeting — June 11, 2009",
+    "details": "WHO raised its pandemic alert to phase 6 based on geographic transmission. Its initial statement characterized overall severity as moderate and urged countries to assess their own conditions."
+  },
+  {
+    "id": "annual-2008",
+    "year": "2008",
+    "title": "A connected economy under strain",
+    "summary": "The financial crisis intensified in 2008 as major institutions faced collapse and credit markets faltered. Lehman Brothers' bankruptcy and emergency interventions exposed the interdependence of banks, markets and households, while the deepening recession brought lasting economic and political consequences.",
+    "why": "The crisis developed before 2008 and the recession continued into 2009; it was not caused by one bankruptcy alone. The source provides a US institutional perspective, so avoid pretending its account captures every country's experience.",
+    "people": "households and workers · Lehman Brothers · central banks · governments and financial regulators",
+    "source": "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath",
+    "sourceName": "The Great Recession and Its Aftermath — Federal Reserve History",
+    "details": "Problems in housing and mortgage finance interacted with wider weaknesses in the financial system. Governments and central banks used multiple measures to stabilize institutions and support lending; later reforms sought to reduce systemic risk."
+  },
+  {
+    "id": "annual-2006",
+    "year": "2006",
+    "title": "Redrawing the solar system's categories",
+    "summary": "At its 2006 General Assembly, the International Astronomical Union adopted a definition of planet for the solar system and classified Pluto as a dwarf planet. The decision reflected a growing inventory of worlds beyond Neptune and showed how scientific categories change as evidence expands.",
+    "why": "This is an IAU classification, not a physical change to Pluto; alternative definitions remain debated. The resolution addresses the solar system and should not simply be applied verbatim to every exoplanet.",
+    "people": "International Astronomical Union · astronomers studying trans-Neptunian objects",
+    "source": "https://www.iau.org/IAU/Iau/News/PR2006/iau-2006-general-assembly-resolution-votes.aspx",
+    "sourceName": "2006 General Assembly resolution votes — IAU",
+    "details": "Under the adopted definition, a planet orbits the Sun, is approximately round under its own gravity, and has cleared its orbital neighborhood. Dwarf planets satisfy the first two criteria but not the third and are not satellites."
+  },
+  {
+    "id": "annual-2005",
+    "year": "2005",
+    "title": "Climate commitments become operational",
+    "summary": "The Kyoto Protocol entered into force on February 16, 2005, following years of negotiations and ratification. It put emissions commitments for participating industrialized countries into a treaty framework, becoming a major stage in the international response to climate change.",
+    "why": "Entry into force does not mean universal participation, identical obligations for all countries, or that climate change was resolved. Distinguish this framework from the later Paris Agreement.",
+    "people": "UN Framework Convention on Climate Change · participating national governments · Joke Waller-Hunter",
+    "source": "https://unfccc.int/process-and-meetings/the-kyoto-protocol",
+    "sourceName": "The Kyoto Protocol — UNFCCC",
+    "details": "The protocol had been adopted in 1997. Its differentiated commitments reflected the convention's principle that countries have different responsibilities and capacities."
+  },
+  {
+    "id": "annual-2004",
+    "year": "2004",
+    "title": "Coastlines confronted by a sudden catastrophe",
+    "summary": "On December 26, an earthquake generated a devastating tsunami across the Indian Ocean. The disaster caused immense loss and displacement, and its aftermath spurred regional cooperation on warning systems, preparedness and the ability of coastal communities to act before waves arrive.",
+    "why": "Treat victims and survivors respectfully; avoid spectacle or false precision in casualty counts. A warning system developed after 2004 cannot be shown operating during the initial disaster.",
+    "people": "affected coastal communities · rescue workers · Indian Ocean national governments · UNESCO Intergovernmental Oceanographic Commission",
+    "source": "https://www.unesco.org/en/articles/ten-years-after-2004-tsunami-indian-ocean-better-prepared-avert-disaster-1",
+    "sourceName": "Ten years after the 2004 tsunami — UNESCO",
+    "details": "Countries around the ocean asked UNESCO's oceanographic commission to establish and coordinate the Indian Ocean Tsunami Warning and Mitigation System. Detection, communication, education and evacuation planning all matter for warnings to save lives."
+  },
+  {
+    "id": "annual-2003",
+    "year": "2003",
+    "title": "A reference for the human genome",
+    "summary": "In April 2003, the international Human Genome Project announced completion of its research goals and a reference sequence covering more than 90% of the human genome. The project gave researchers a foundation for investigating genes, biological variation and disease while accelerating tools for genomic research.",
+    "why": "The 2003 reference was not gapless and did not represent all human diversity. Later projects filled difficult regions and expanded references; do not call 2003 the first completely exhaustive sequence of every base or every person's genome.",
+    "people": "International Human Genome Sequencing Consortium · National Human Genome Research Institute · US Department of Energy · international sequencing centers",
+    "source": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project",
+    "sourceName": "Human Genome Project Fact Sheet — NHGRI",
+    "details": "A shared reference sequence helps scientists compare DNA and locate genes. Sequencing a genome is different from fully understanding the function and interactions of every sequence."
+  },
+  {
+    "id": "annual-2002",
+    "year": "2002",
+    "title": "One currency enters everyday life",
+    "summary": "On January 1, euro banknotes and coins entered circulation in 12 European countries. The enormous cash changeover made monetary integration tangible in shops and households, replacing multiple national currencies with a shared means of payment.",
+    "why": "The euro had already launched for accounting and electronic transactions in 1999. Not all European countries or EU members adopted it, and the original 12 should not be replaced by today's membership count.",
+    "people": "European Central Bank · national central banks · participating countries' residents and businesses",
+    "source": "https://www.ecb.europa.eu/press/pr/date/2002/html/pr020228.en.html",
+    "sourceName": "The euro becomes sole legal tender — European Central Bank",
+    "details": "For a transition period, euro cash and former national cash circulated together. By March 1, the euro was the sole legal tender across the participating euro area."
+  },
+  {
+    "id": "annual-2000",
+    "year": "2000",
+    "title": "A home and laboratory in orbit",
+    "summary": "On November 2, the Expedition 1 crew arrived at the International Space Station. Their stay began continuous crewed operation of the orbiting laboratory, turning an assembled space outpost into a workplace for international research and human life beyond Earth.",
+    "why": "This is the beginning of long-duration ISS habitation, not the first space station or the first crewed visit to ISS hardware. Station construction began earlier and continued afterward.",
+    "people": "Bill Shepherd · Yuri Gidzenko · Sergei Krikalev · NASA · Russian space program · ISS partner organizations",
+    "source": "https://www.nasa.gov/missions/station/iss-research/expedition-1-kicks-off-science-aboard-international-space-station/",
+    "sourceName": "Expedition 1 Kicks Off Science Aboard the ISS — NASA",
+    "details": "The crew prepared living and working systems and initiated research, including Earth observations. Later expeditions would expand the station and build on this beginning."
+  }
+]

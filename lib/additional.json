@@ -1,0 +1,196 @@
+[
+  {
+    "id": "eniac",
+    "year": "1946",
+    "title": "Calculation at electronic speed",
+    "summary": "ENIAC was publicly unveiled in February 1946 after being built for the US Army at the University of Pennsylvania. As the first programmable, general-purpose electronic digital computer, it could be configured for different numerical problems, demonstrating the potential of electronic computation beyond a single specialized task.",
+    "why": "1946 marks public introduction, not the beginning of all computing: ENIAC was built between 1943 and 1945 and had mechanical, electromechanical and specialized electronic predecessors. Keep the qualifiers programmable, general-purpose and electronic digital; do not call it simply the first computer. Its original programming required wiring and switches rather than a stored program. Include women programmers alongside hardware designers.",
+    "people": "John Mauchly · J. Presper Eckert · Jean Bartik · Frances Spence · University of Pennsylvania · US Army",
+    "source": "https://www.computerhistory.org/revolution/story/78",
+    "sourceName": "ENIAC — Computer History Museum"
+  },
+  {
+    "id": "ibmpc",
+    "year": "1981",
+    "title": "Computing reaches the desktop",
+    "summary": "IBM introduced its 5150 Personal Computer on August 12, 1981. An open architecture and a growing software market helped make the PC a widely adopted business platform, bringing word processing, spreadsheets and other computing tasks to more desks.",
+    "why": "IBM did not invent the personal computer; other personal computers and a software market already existed. This entry identifies an influential standardization milestone. IBM's corporate account is a primary source for its own launch, but its promotional claim that earlier PCs had little practical value should not be repeated. The PC used an Intel 8088, not an 8086 processor.",
+    "people": "Don Estridge · IBM development team · Intel · Microsoft · software developers and users",
+    "source": "https://www.ibm.com/history/personal-computer",
+    "sourceName": "The IBM PC — IBM History"
+  },
+  {
+    "id": "blackdeath",
+    "year": "1347–1351",
+    "title": "Communities confronted by catastrophe",
+    "summary": "The mid-fourteenth-century Black Death killed millions across Asia, Europe and North Africa, devastating families and communities. The loss of life also disrupted food production and work: in places such as England, labor shortages increased workers' bargaining power while authorities tried to restrain wages and mobility.",
+    "why": "1347–1351 is a common compressed display range for the great European wave, not a precise worldwide boundary; wider histories use 1346–1353. Plague returned repeatedly afterward. Avoid a confident global death tally, a single transmission story for every region, or the claim that economic changes happened uniformly.",
+    "people": "victims and surviving communities · caregivers and burial workers · Edward III · local religious and civic authorities",
+    "source": "https://www.londonmuseum.org.uk/collections/london-stories/great-pestilence-london/",
+    "sourceName": "The Great Pestilence in London — London Museum",
+    "details": "Plague is caused by the bacterium Yersinia pestis. People did not understand its microbial cause, but communities organized care, religious responses and burials; London evidence shows that even multiple burials could be carefully arranged. Death tolls are estimates drawn from fragmentary written and archaeological records."
+  },
+  {
+    "id": "maritime",
+    "year": "c. 1400–1700",
+    "title": "An ocean of exchange, an ocean contested",
+    "summary": "Long-established Indian Ocean networks connected East African ports, South Asian merchants and textile makers, and societies across Asia. European maritime expansion entered these existing networks and intensified exchange, but also brought fortified trading posts, conquest, coercion and struggles for control whose costs were borne by local communities.",
+    "why": "The dates define this chapter's scope rather than the beginning or end of Indian Ocean trade. Avoid the one-sided label Age of Discovery and language claiming Europeans discovered inhabited societies. Cultural exchange coexisted with exploitation and resistance. The Met exhibition includes later eighteenth-century examples: do not backdate them or the nineteenth-century Opium Wars into this chapter.",
+    "people": "Swahili coastal communities · Gujarati and other South Asian merchants · Indian and Chinese artisans · Vasco da Gama · Afonso de Albuquerque · Portuguese and later Dutch and English trading organizations",
+    "source": "https://www.metmuseum.org/exhibitions/listings/2013/interwoven-globe",
+    "sourceName": "Interwoven Globe — Metropolitan Museum of Art",
+    "details": "Da Gama reached Calicut in 1498; Portuguese forces took Goa in 1510 and Melaka in 1511. Trading textiles combined designs and skills across cultures. Chartered companies later joined a crowded commercial world rather than creating oceanic trade from nothing."
+  },
+  {
+    "id": "pleistocene",
+    "year": "c. 2.58 million–11,700 years ago",
+    "title": "A world shaped by ice",
+    "summary": "During the Pleistocene, repeated cold and warmer intervals caused vast ice sheets to advance and retreat, reshaping landscapes and habitats. Human evolution and migration unfolded amid these changing conditions, and near the epoch's end many large mammals disappeared as the planet entered the Holocene.",
+    "why": "The Pleistocene is an epoch containing many glacial and interglacial intervals, not one uninterrupted global freeze. 11,700 years ago is the formal Holocene boundary (referenced to AD 2000 in its ice-core definition). People, mammoths and environments varied across this enormous span. Late-Pleistocene extinctions were not synchronous everywhere; climate and human activity are investigated as interacting factors.",
+    "people": "early human populations · Homo sapiens and other human species · geologists and archaeologists (modern investigators)",
+    "source": "https://historicengland.org.uk/images-books/publications/scientific-dating-pleistocene-sites/introduction/",
+    "sourceName": "Scientific Dating of Pleistocene Sites — Historic England"
+  },
+  {
+    "id": "stonetools",
+    "year": "c. 3.3 million years ago",
+    "title": "Stone becomes a tool",
+    "summary": "Stone artifacts from Lomekwi 3 in Kenya are dated to approximately 3.3 million years ago, placing stone toolmaking far before our own species. These early objects reveal that modifying the material world was part of hominin life deep in the Pliocene, before the later and more widespread Oldowan tradition.",
+    "why": "The species responsible remains unknown: do not attribute these tools to Homo sapiens or confidently to any one hominin. Lomekwi's dating and interpretation have been scrutinized, so phrase it as dated archaeological evidence rather than an observed invention moment. The Smithsonian early-tools overview still says at least 2.6 million years, a lower bound, while its newer facts page recognizes tools at least 3.3 million years old. The Lomekwi site belongs to the Pliocene, not the Pleistocene.",
+    "people": "unknown early hominin toolmakers · Sonia Harmand and archaeological research team (modern investigators) · National Museums of Kenya",
+    "source": "https://www.nature.com/articles/nature14464",
+    "sourceName": "3.3-million-year-old stone tools from Lomekwi 3 — Nature research paper"
+  },
+  {
+    "id": "greece",
+    "year": "c. 480–323 BCE",
+    "title": "Classical Greece: art, politics and power",
+    "summary": "Greek city-states produced influential forms of art and public life during the Classical period. Athens's cultural achievements were also tied to military alliances and imperial wealth, making this a chapter of political competition as well as artistic experimentation.",
+    "why": "The range describes Classical Greece, not all ancient Greek history. Athens was not all Greece, and ancient citizenship excluded many residents. Cultural achievements coexisted with slavery, warfare and empire.",
+    "people": "Athenian citizens · Greek artists and craftspeople · Alexander the Great · communities of the Greek city-states",
+    "source": "https://www.metmuseum.org/de/essays/the-art-of-classical-greece-ca-480-323-b-c",
+    "sourceName": "The Art of Classical Greece — Metropolitan Museum of Art",
+    "details": "The Delian League began as an alliance but became increasingly subject to Athens. Greek sculpture and architecture explored idealized bodies, balance and naturalistic representation; later Roman copies preserve evidence of many lost Greek originals."
+  },
+  {
+    "id": "china",
+    "year": "206 BCE–220 CE",
+    "title": "Han China: an empire of institutions and exchange",
+    "summary": "The Han dynasty reunited China after the collapse of Qin rule and developed cities, state institutions and a flourishing literary culture. Trade and diplomacy connected the empire with Central Asia and beyond, while technology and scholarship helped shape later traditions of Chinese statecraft.",
+    "why": "Han is one chapter of Chinese civilization, not its origin. The dynasty included Western and Eastern phases separated by an interruption; some chronologies use 202 BCE as its political founding rather than the Met's 206 BCE. Territorial expansion involved conquest as well as exchange.",
+    "people": "Emperor Wu · Sima Qian · Ban Chao · Han officials, artisans, traders and farmers",
+    "source": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+    "sourceName": "Han Dynasty — Metropolitan Museum of Art",
+    "details": "Sima Qian's Historical Records became an influential model for later histories. Confucian writings helped shape official education, and material evidence documents developments in paper, astronomy and other technologies."
+  },
+  {
+    "id": "india",
+    "year": "c. 2600–1900 BCE",
+    "title": "The Indus civilization: the ingenuity of everyday cities",
+    "summary": "Cities of the Indus civilization developed substantial housing, drainage and water infrastructure across the northwestern Indian subcontinent. Seals, standardized objects and long-distance contacts reveal an organized urban world whose achievements were closely connected to everyday life and trade.",
+    "why": "This is the Mature Harappan period, not the whole history of India or the Indus tradition. Its territory crossed today's India–Pakistan border, and major sites are in both countries. Avoid inventing kings, translating undeciphered inscriptions, or assuming all urban design proves one centralized government.",
+    "people": "Harappan communities · urban planners and builders · artisans and merchants",
+    "source": "https://www.metmuseum.org/essays/art-of-the-first-cities-in-the-third-millennium-b-c",
+    "sourceName": "Art of the First Cities — Metropolitan Museum of Art",
+    "details": "Harappa and Mohenjo-daro are among its best-known cities. Short inscriptions on stone seals attest to a sign system that remains undeciphered, limiting what can be said confidently about named rulers, language and political organization."
+  },
+  {
+    "id": "mesopotamia",
+    "year": "c. 3500–3000 BCE",
+    "title": "Uruk: the city and the written record",
+    "summary": "Uruk grew into a major city in southern Mesopotamia with monumental mud-brick buildings and complex administration. Pictographs on clay recorded goods and workers' rations, showing how managing urban life helped develop the precursors of cuneiform writing.",
+    "why": "The display range identifies late-fourth-millennium urbanization, not all Mesopotamian history. Uruk was among the earliest major cities; an absolute single 'first city' depends on definitions and evidence. Gilgamesh traditions concern a later period and should not be treated as verified eyewitness history here.",
+    "people": "Uruk's communities · administrators and scribes · farmers, builders and craftspeople",
+    "source": "https://www.metmuseum.org/essays/uruk-the-first-city",
+    "sourceName": "Uruk: The First City — Metropolitan Museum of Art",
+    "details": "Southern Mesopotamia lies largely in present-day Iraq. Art, seals and tablets preserve relationships among economic organization, religious institutions and authority, while imported materials show links beyond the city."
+  },
+  {
+    "id": "permian",
+    "year": "298.9–251.9 million years ago",
+    "title": "Permian: life before the Great Dying",
+    "summary": "Before dinosaurs dominated, Paleozoic land ecosystems included a wide range of synapsids and other animals. The end-Permian extinction devastated life on land and in the seas, marking the transition to the Mesozoic and a long period of ecological recovery.",
+    "why": "Do not confuse the end-Permian event with the asteroid extinction at 66 million years. Synapsids are the lineage that includes mammals; the older phrase mammal-like reptiles is potentially misleading. Avoid an unsupported precise percentage or a single-cause claim.",
+    "people": "paleontologists and geologists (modern investigators)",
+    "source": "https://www.nhm.ac.uk/discover/the-triassic-period-the-rise-of-the-dinosaurs.html",
+    "sourceName": "The Triassic Period: the rise of dinosaurs — Natural History Museum",
+    "details": "The extinction boundary separates the Paleozoic and Mesozoic eras. Its profound impact is one reason scientists examine how major environmental changes interact with ecosystems."
+  },
+  {
+    "id": "carboniferous",
+    "year": "358.9–298.9 million years ago",
+    "title": "Carboniferous: wetlands and immense arthropods",
+    "summary": "Carboniferous landscapes included extensive wetlands and forests, alongside animals such as giant millipedes and dragonfly-like griffinflies. Fossils from these environments reveal a striking world that existed long before the first dinosaurs.",
+    "why": "The whole planet was not one swamp. Higher oxygen is one proposed contributor to arthropod gigantism, not a complete settled explanation. Carboniferous includes the Mississippian and Pennsylvanian subdivisions.",
+    "people": "paleontologists and paleobotanists (modern investigators)",
+    "source": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-terrestrial-arthropod-was-car-sized-millipede.html",
+    "sourceName": "The world's largest arthropod was a car-sized millipede — Natural History Museum",
+    "details": "Coal measures preserve evidence of many ancient plants. Arthropleura fossils show that some terrestrial arthropods reached extraordinary sizes; griffinflies were a separate extinct group resembling modern dragonflies."
+  },
+  {
+    "id": "devonian",
+    "year": "419.6–358.9 million years ago",
+    "title": "Devonian: fins at the edge of land",
+    "summary": "During the Devonian, many major fish groups diversified, and vertebrates began the long transition toward life on land. Fossils such as Tiktaalik preserve combinations of fish and four-limbed-animal features, helping researchers reconstruct evolutionary change rather than imagine one sudden leap.",
+    "why": "Tiktaalik should not be confidently labeled the single direct ancestor of all land vertebrates, nor the first creature ever on land. Plants and arthropods had terrestrial histories earlier; evolution forms branching lineages.",
+    "people": "paleontologists studying fish and early tetrapods (modern investigators)",
+    "source": "https://www.nhm.ac.uk/discover/prehistoric-fish-timeline.html",
+    "sourceName": "Prehistoric fish: significant species — Natural History Museum",
+    "details": "Tiktaalik had scales, gills and fins as well as a mobile neck and limb bones comparable to those of later tetrapods. Such mosaics of characteristics show how structures were modified over generations."
+  },
+  {
+    "id": "silurian",
+    "year": "443.1–419.6 million years ago",
+    "title": "Silurian: the land gains living structure",
+    "summary": "The Silurian fossil record documents early vascular plants and an expanding history of organisms on land. These small pioneers help explain how terrestrial ecosystems developed long before forests and flowering plants familiar today.",
+    "why": "The first evidence of land plants predates the Silurian; this chapter emphasizes early vascular plants and diversification. Do not populate scenes with modern flowers or trees. The NPS page prints older boundary estimates; use the ICS 2026 range supplied here.",
+    "people": "paleobotanists and geologists (modern investigators)",
+    "source": "https://www.nhm.ac.uk/our-science/research/projects/reading-rocks.html",
+    "sourceName": "Reading the rocks — Natural History Museum",
+    "details": "Fossil evidence and comparisons with living plants are used to investigate the origins of plant organs and tissue systems. Changes in sea level and sediment preservation influence which parts of this history are recoverable."
+  },
+  {
+    "id": "ordovician",
+    "year": "486.9–443.1 million years ago",
+    "title": "Ordovician: the oceans diversify",
+    "summary": "Ordovician seas supported diversifying marine communities, including brachiopods, trilobites and other invertebrates. Near the period's end, extensive glaciation and falling sea levels accompanied a mass extinction that profoundly affected marine life.",
+    "why": "The record does not show every organism or habitat equally. Avoid one exact global species-loss percentage. The NPS page uses older numerical boundaries; the supplied range follows the current ICS chart.",
+    "people": "paleontologists and stratigraphers (modern investigators)",
+    "source": "https://www.nps.gov/articles/000/ordovician-period.htm",
+    "sourceName": "Ordovician Period — US National Park Service",
+    "details": "Shallow-water habitats were sensitive to changes in sea level. The fossil record allows scientists to compare communities before and after this major interruption in biodiversity."
+  },
+  {
+    "id": "cambrian",
+    "year": "538.8–486.9 million years ago",
+    "title": "Cambrian: ecosystems become more complex",
+    "summary": "In the Cambrian, animal diversity expanded dramatically in the fossil record, with many major body plans, hard parts and ecological relationships becoming conspicuous. Sites such as the Burgess Shale and Chengjiang preserve exceptional glimpses of these ancient marine communities.",
+    "why": "The Cambrian explosion lasted millions of years and had Precambrian foundations; it did not create all life instantaneously. The Cambrian is a period, not an epoch, and its animals should not be portrayed as dinosaurs.",
+    "people": "paleontologists (modern investigators)",
+    "source": "https://www.nhm.ac.uk/discover/the-cambrian-period.html",
+    "sourceName": "The Cambrian Period — Natural History Museum",
+    "details": "Shells, spines and burrowing behavior changed interactions among organisms and their environments. Fossils with exceptional soft-tissue preservation reveal much that ordinary shells and fragments cannot."
+  },
+  {
+    "id": "ediacaran",
+    "year": "c. 635–538.8 million years ago",
+    "title": "Ediacaran: unfamiliar lives on ancient seafloors",
+    "summary": "Ediacaran rocks preserve unusual organisms with frond-like, ribbon-like and other unfamiliar forms. Their traces offer a view of ecosystems before the better-known Cambrian communities and raise questions about how early animal life related to later lineages.",
+    "why": "Not every Ediacaran fossil is securely assigned to an animal lineage. The date range names the geological period, not the exact first appearance of each organism. Older museum text rounds the ending to 541 million; use the current ICS boundary here.",
+    "people": "Douglas Erwin and other paleobiologists (modern investigators)",
+    "source": "https://naturalhistory.si.edu/education/teaching-resources/life-science/early-life-earth-animal-origins",
+    "sourceName": "History of Life on Earth — Smithsonian National Museum of Natural History",
+    "details": "Fossils and movement traces help researchers investigate behavior and biological relationships. Many Ediacaran forms do not fit neatly into familiar modern groups."
+  },
+  {
+    "id": "precambrian",
+    "year": "Earth's formation–538.8 million years ago",
+    "title": "Precambrian: most of Earth's story",
+    "summary": "Before the Cambrian, Earth passed through billions of years of planetary, atmospheric and biological change. Microbial life and the later rise of oxygen transformed environments long before the appearance of abundant animal fossils, building conditions on which later ecosystems depended.",
+    "why": "Precambrian is not one formal geological period. The 4540-million-year starting value is a rounded estimate for Earth's age; the ICS Hadean starts at the solar-system reference age 4567 million years. Do not merge first microbes, atmospheric oxygenation and animal origins into one event.",
+    "people": "geologists, geochemists and paleobiologists (modern investigators)",
+    "source": "https://home.nps.gov/articles/000/proterozoic-eon.htm",
+    "sourceName": "Proterozoic Eon — US National Park Service",
+    "details": "Precambrian is a broad informal umbrella for the Hadean, Archean and Proterozoic eons. The Ediacaran is its final formal period, so these labels are nested rather than separate non-overlapping units."
+  }
+]

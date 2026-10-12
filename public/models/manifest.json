@@ -1,0 +1,1 @@
+{"revision":1,"worlds":{"city":{"file":"city-candidates.glb","root":"ENV_apartment","status":"engine-preview"},"hospital":{"status":"procedural-blockout"}},"characters":[{"file":"soldier.glb","clip":"Walk","status":"stock-animation-test","clothingAuthenticity":false}],"releaseReady":false,"rightsVerified":false}

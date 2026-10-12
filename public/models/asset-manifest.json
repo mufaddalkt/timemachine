@@ -1,0 +1,89 @@
+{
+  "projectId": "d2bb5ce0-9c1f-4147-93ac-2e7e8baa3fcf",
+  "revision": 3,
+  "files": [
+    "city-candidates.glb"
+  ],
+  "assetRights": "unverified; catalog exposes no license or author",
+  "animationClips": [],
+  "textures": 0,
+  "vertexColors": true,
+  "assets": [
+    {
+      "name": "apartment_block_01",
+      "type": "MESH",
+      "parent": "ENV_apartment",
+      "dimensions": [
+        7.629530906677246,
+        6.789717674255371,
+        13.40999984741211
+      ],
+      "location": [
+        0.23982059955596924,
+        0.11500000953674316,
+        -6.694999694824219
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "vertices": 69040,
+      "faces": 34738,
+      "uv_layers": 0,
+      "materials": [
+        "lowpoly"
+      ],
+      "custom_properties": {
+        "hf_asset_child": true
+      }
+    },
+    {
+      "name": "car_sedan_01",
+      "type": "MESH",
+      "parent": "VEH_sedan",
+      "dimensions": [
+        1.2031503915786743,
+        3.0569498538970947,
+        0.962072491645813
+      ],
+      "location": [
+        0,
+        0.7809749841690063,
+        -0.484254390001297
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "vertices": 8041,
+      "faces": 5680,
+      "uv_layers": 0,
+      "materials": [
+        "lowpoly.001"
+      ],
+      "custom_properties": {
+        "hf_asset_child": true
+      }
+    }
+  ],
+  "exportRoots": {
+    "ENV_apartment": {
+      "position": [
+        0,
+        6.704999923706055,
+        0
+      ],
+      "mesh": "apartment_block_01"
+    },
+    "VEH_sedan": {
+      "position": [
+        9,
+        0.48099565505981445,
+        0
+      ],
+      "mesh": "car_sedan_01"
+    }
+  }
+}

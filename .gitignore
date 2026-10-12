@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.next-dev/
+.vercel/
+.openai/
+out/
+*.tsbuildinfo
+.openai/*.local.*
+.env*
